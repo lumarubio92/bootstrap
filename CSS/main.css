@@ -1,0 +1,14 @@
+body{
+  color: black;
+  font-family: 'Miltonian', ;
+  text-align: justify;
+  font-size: 18px;
+}
+.esimezac{
+  color:green;
+  text-align: left;
+}
+
+header{
+  margin-top:60px;
+}
